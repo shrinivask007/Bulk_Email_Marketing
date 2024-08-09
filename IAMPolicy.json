@@ -10,7 +10,7 @@
             "Action": [
                 "s3:GetObject"
             ],
-            "Resource": "arn:aws:s3:::ttt-email-marketing/*"
+            "Resource": "arn:aws:s3:::email-marketing-sk/*"
         },
         {
             "Effect": "Allow",
