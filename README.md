@@ -43,8 +43,8 @@ The architecture of this application is based on AWS's serverless services:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/shrinivask007/Bulk_Emailing.git
-    cd Bulk_Emailing-app
+    git clone https://github.com/shrinivask007/Bulk_Email_Marketing.git
+    cd Bulk_Email_Marketing-app
     ```
 
 2. **Set up your AWS resources:**
